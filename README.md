@@ -2,7 +2,8 @@
 
 Profile  
 CG系触ってます。  
-![suu_3](https://github.com/user-attachments/assets/ad152ff7-2bd1-441f-8af4-50204ad85f7f) ![mrc_test2_1](https://github.com/user-attachments/assets/9b612960-c849-46df-8fef-69a3a9305ad4)
+<img src="https://github.com/user-attachments/assets/ad152ff7-2bd1-441f-8af4-50204ad85f7f" width="300"><img src="https://github.com/user-attachments/assets/9b612960-c849-46df-8fef-69a3a9305ad4" width="300">
+
 
 最近の活動  
 サークル：  
