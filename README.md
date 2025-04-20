@@ -1,12 +1,12 @@
 ##  YKKSのgithub
 
-Profile　　
-CG系触ってます。　　
+Profile  
+CG系触ってます。  
 
-最近の活動　　
-サークル：　　
-Ri-one/Rapt/Pname　　
-その他：　　
+最近の活動  
+サークル：  
+Ri-one/Rapt/Pname  
+その他：  
 RCJ非公式交流会　りつもりカップ運営・企画
 
 
