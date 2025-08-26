@@ -11,7 +11,7 @@ Ri-one/Rapt/Pname
 その他：  
 RCJ非公式交流会　りつもりカップ運営・企画
 
-作ったものの例(プレイリスト)
+作ったものの例(プレイリスト)  
 https://youtube.com/playlist?list=PLRBVkC9XfvBTQrVgaTvjX3oHr6-Otpb1V&si=dRHVhQzpinQkWD3k
 
 
