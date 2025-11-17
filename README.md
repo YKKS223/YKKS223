@@ -17,10 +17,10 @@ https://youtube.com/playlist?list=PLRBVkC9XfvBTQrVgaTvjX3oHr6-Otpb1V&si=dRHVhQzp
 RCJ交流会などの配信映像や記録はこちら  
 https://www.youtube.com/@Sci-Tech_2022-  
  
-Twitter(現:X) https://x.com/225yuuki223   
+Twitter(現:X) https://x.com/225yuuki223 
  
-
-
+ 
+ 
 [![Programming Languages](https://skillicons.dev/icons?i=blender,cpp,cs,discord,docker,github,kotlin,py,unity,)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKKS223)](https://github.com/anuraghazra/github-readme-stats)
